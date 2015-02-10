@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    In case of sudden/unexpected errors, it is easy to find simple human mistakes.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having access to the entire history would make a programmer aware of any mistakes committed in the past, due to which, he won't repeat them and thus, save time and be more efficient.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: Humans will understand better when to commit since it can vary from person to person, and it is hard to write an algorithm for automatic commiting to accomodate such a wide range of preferences.
+	
+	Cons: Amateur programmers might find it useful to have their changes automatically commited from time to time.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    There are pros and cons to both. We need both systems. For developers allowing commits of multiple files makes sense, since fixing of bugs might require changes to several files. On the other hand, for a managing employee, it might make sense to save single files and treat all files independent, since each file will be different to him.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Log can be used as a contents page in a book, to see when and how commits have been made. Diff can be used to compare any 2 files and see what changed. Using these 2 commands the entire history of the project can be seen.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    With version control, one thing that is extremely clear is that if I make any major mistakes in code, I can always revert back to a previous version. This will make me more confident to try significant changes with the knowledge that if anything goes too wrong, I can always come back.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try using git for a bigger and more complicated software project.
