@@ -16,14 +16,14 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Fetch command can work offline, and the last known state of the remote can be viewed without internet access.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Collaborating would be very hard without Git/Github. A person would have to be appointed for collaborating work. All developers would be mailing their code to this person, and he would be doing the job of merging code. Using Git is way better.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When working in a large team, it makes sense for each developer to work on his own branch, and keep merging with master, so that the master as a whole keeps getting better. On the other hand for developing software where only 1 developer is involved, having 1 branch is sufficient.
